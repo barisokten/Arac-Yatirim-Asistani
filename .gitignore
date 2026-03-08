@@ -1,0 +1,14 @@
+# Google API Anahtarı 
+credentials.json
+
+# Python klasörleri
+__pycache__/
+.venv/
+.env
+
+# Veri dosyaları ()
+*.csv
+*.xlsx
+
+# Streamlit ayarları
+.streamlit/
